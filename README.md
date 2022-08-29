@@ -14,6 +14,8 @@ In this lab, we'll build an app called Nostaldja, an app for tracking fads acros
 1. Fulfill the listed requirements.
 
 
+## Part I:
+
 ## Setup
 
 Read through the setup instructions from our previous labs
@@ -99,6 +101,9 @@ class Migration(migrations.Migration):
     ]
 
 ```
+
+
+## Part II
 
 ### URLs
 

@@ -19,7 +19,7 @@ In this lab, we'll build an app called Nostaldja, an app for tracking fads acros
 
 Read through the setup instructions from our previous labs
 
-The goal of this app is to have a full-CRUD application with multiple views.
+The goal of this app is to have a full-CRUD application with a functioning Admin panel
 
 ## Requirements
 

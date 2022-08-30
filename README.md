@@ -21,6 +21,8 @@ Read through the setup instructions from our previous labs
 
 The goal of this app is to have a full-CRUD application with a functioning Admin panel
 
+In your SQL file, create a Database called "Nostaldja", with a user of "NostaldjaUser", and make sure to grant them all permissions
+
 ## Requirements
 
  You'll need to create a new psql database for your app.
